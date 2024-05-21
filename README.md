@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+안녕하세요 신입 프론트엔드 개발자로 나아가고있는 임재준입니다.
 <!--
 **JJleem/JJleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
