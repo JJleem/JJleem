@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20JAEJUN%20Github&fontSize=70&animation=zoom&fontAlignY=38&desc=We%20Can%20Do%20It!&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=20c997&height=300&section=header&text=Welcome%20JAEJUN%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=We%20Can%20Do%20It!&descAlignY=51&descAlign=62"/>
 </p>
 
 <p>
@@ -53,7 +53,6 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/slack-00C7B7?style=flat-square&logo=slack&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-        
     </div>
 </p>
     <br/>
