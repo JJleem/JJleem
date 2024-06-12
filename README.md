@@ -1,7 +1,7 @@
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=20c997&height=300&section=header&text=Welcome%20JAEJUN%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=We%20Can%20Do%20It!&descAlignY=51&descAlign=62"/>
 </p>
-<a href="https://aksen123.github.io/M_W_blog/" target="_blank"><img src="https://img.shields.io/badge/blog-17692e?style=flat&logo=Blogger&logoColor=fc6b3f" height="50px"/>
+
 <p>
     <div align="center">
     <b>📅 # Today's Visit 📅</b>
@@ -17,10 +17,11 @@
        <br/>
    <br />
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,scss,styledcomponents)](https://github.com/aksen123)
+[![My Skills](https://skillicons.dev/icons?i=js,react,ts)](https://github.com/aksen123)
 
 <br /><br />
      [![My Skills](https://skillicons.dev/icons?i=redux,recoil,reactquery,reactrouter,reacthookform)](https://github.com/aksen123)
+     [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,scss,styledcomponents)](https://github.com/aksen123)
      <br /><br />
      [![My Skills](https://skillicons.dev/icons?i=node,pug,babel)](https://github.com/aksen123)
 <br /><br />
