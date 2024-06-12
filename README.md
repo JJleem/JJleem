@@ -11,7 +11,6 @@
     </div>
 </p>
 
-    <br/>
 <p>
    <div align="center">
        <b>💻 # Main Skill & Language 💻</b>
@@ -34,7 +33,7 @@
        <br/>
        <br/>
        <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/>
-       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+       <img src="https://img.shields.io/badge/styledcomponents-000000?style=flat-square&logo=styledcomponents&logoColor=white"/>
        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
        <br/>
        <br/>
