@@ -17,10 +17,10 @@
        <br/>
        <br/>
      [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,scss,styledcomponents)](https://github.com/aksen123)
-       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<!--        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
        <img src="https://img.shields.io/badge/CSS3-1572B66?style=flat-square&logo=CSS3&logoColor=white"/>
        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-       <img src="https://img.shields.io/badge/styledcomponents-000000?style=flat-square&logo=styledcomponents&logoColor=white"/>
+       <img src="https://img.shields.io/badge/styledcomponents-000000?style=flat-square&logo=styledcomponents&logoColor=white"/> -->
        <br/>
        <br/>
        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
