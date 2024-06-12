@@ -33,7 +33,6 @@
        <img src="https://img.shields.io/badge/reactrouter-61DAFB?style=flat-square&logo=reactrouter&logoColor=white"/>
        <img src="https://img.shields.io/badge/reacthookform-764ABC?style=flat-square&logo=reacthookform&logoColor=white"/>
        <img src="https://img.shields.io/badge/reactbootstrap-1572B66?style=flat-square&logo=reactbootstrap&logoColor=white"/>
-       <img src="https://img.shields.io/badge/reactquery-3178C6?style=flat-square&logo=reactquery&logoColor=white"/>
        <br/>
        <br/>
        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
