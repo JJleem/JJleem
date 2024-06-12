@@ -1,7 +1,7 @@
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=20c997&height=300&section=header&text=Welcome%20JAEJUN%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=We%20Can%20Do%20It!&descAlignY=51&descAlign=62"/>
 </p>
-
+<p align="center"> <img src="https://user-images.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/chameleon.jpg" alt="Chameleon" width="300" /> </p>
 <p>
     <div align="center">
     <b>📅 # Today's Visit 📅</b>
@@ -32,11 +32,11 @@
        <img src="https://img.shields.io/badge/reactquery-3578E5?style=flat-square&logo=reactquery&logoColor=white"/>
        <img src="https://img.shields.io/badge/reactrouter-3578E5?style=flat-square&logo=reactrouter&logoColor=white"/>
        <img src="https://img.shields.io/badge/reacthookform-3578E5?style=flat-square&logo=reacthookform&logoColor=white"/>
+       <br/>
+       <br/>
        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-       <br/>
-       <br/>
-       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-       <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+       <img src="https://img.shields.io/badge/pug-339933?style=flat-square&logo=pug&logoColor=white"/>
+       <img src="https://img.shields.io/badge/babel-339933?style=flat-square&logo=babel&logoColor=white"/>
        <br/>
        <br/>
        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
