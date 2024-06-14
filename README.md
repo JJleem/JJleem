@@ -50,7 +50,7 @@
     <br/>
 <p>
     <div align="center">
-    <b>🎻 # Git-Hub Stats 🎻</b>
+    <b>✔ # Git-Hub Stats ✔</b>
     <br/>
 
 </p>
