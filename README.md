@@ -1,7 +1,9 @@
-<p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20MOLT's%20Github!&fontSize=68&animation=fadeIn&fontAlignY=38&desc=%20%20FrontendDeveloper%20&descAlignY=51&descAlign=62"/>
-</p>
 
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=b455ff&text=Welcome%20to%20MOLT%20Github&fontColor=fff&fontSize=50&animation=twinkling"/>
+<br />
+<br />
+</p>
 <p>
     <div align="center">
     <b>📅 # Today's Visit 📅</b>
