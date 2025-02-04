@@ -62,9 +62,9 @@
     - Web & Hardware Integration (웹과 하드웨어 통합)   
     - IoT 기반 인터페이스 및 대시보드 개발  
 
-    <br/>
+<br/>
 
-    </div>
+</div>    
 </p>
        <br/>
 <p>
