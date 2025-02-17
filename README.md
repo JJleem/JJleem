@@ -23,7 +23,7 @@
    <br/>
     <br/>
 <div align="center" style="text-align: center; display: flex; justify-content: center;">
-  <b>🔥 Experienced With 🔥</b>
+
   <br/>
   <br/>
  
@@ -40,8 +40,6 @@
     <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/> <br/>
     <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
     </td>
-  </tr>
-  <tr>
     <td align="center">
     <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/>  <br/>
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/> <br/>
