@@ -17,7 +17,7 @@
 
 
   
-<div align="center" style="text-align: center; display: flex; justify-content: center;">
+<div width="100%" align="center" style="text-align: center; display: flex; justify-content: center;">
 
   <br/>
   <br/>
