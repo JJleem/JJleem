@@ -25,9 +25,9 @@
   <br/>
  
 
-<table align="center">
+<table align="center" cellpadding="6">
   <tr>
-    <td align="center" colspan="4" style="padding: 4px;">
+    <td align="center" colspan="4">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -37,22 +37,22 @@
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 4px;">
+    <td align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/><br/>
     </td>
-    <td align="center" style="padding: 4px;">
+    <td align="center">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
     </td>
-    <td align="center" style="padding: 4px;">
+    <td align="center">
       <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=reactquery&logoColor=white"/><br/>
     </td>
-    <td align="center" style="padding: 4px;">
+    <td align="center">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/><br/>
     </td>
   </tr>
