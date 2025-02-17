@@ -14,11 +14,9 @@
 </p>
 
 
-<div align="center"> 
-    <b>🏆 Main Skills & Languages 🏆</b>
-    </div>
-   <br/>
-    <br/>
+
+
+  
 <div align="center" style="text-align: center; display: flex; justify-content: center;">
 
   <br/>
@@ -26,6 +24,11 @@
  
 
 <table align="center" cellpadding="6">
+    <tr>
+           <td align="center" colspan="4">
+                   <b>🏆 Main Skills & Languages 🏆</b>
+           </td>
+    </tr>
   <tr>
     <td align="center" colspan="4">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -56,17 +59,17 @@
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/><br/>
     </td>
   </tr>
+     <tr>
+    <td align="center" colspan="4">
+           <b>🚀 Tools & Collaboration 🚀</b>
+    </td>
+     </tr>
+         <tr>
+    <td align="center" colspan="4">
+           <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+    </td>
+     </tr>
 </table>
-
-
-
-   <br/>
-    <br/>
-<div align="center">
-        <b>🚀 Tools & Collaboration 🚀</b>
-    <br/>
-    <br/> 
-   <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> </div>
     <br/>
     <br/>
 
