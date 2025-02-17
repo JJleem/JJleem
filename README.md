@@ -1,10 +1,10 @@
 
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=b455ff&text=Welcome%20to%20MOLT%20Github&fontColor=fff&fontSize=50&animation=twinkling"/>
-
 </p>
-<div width=100% align="center" style="text-align: center; display: flex; justify-content: center;" column>
-    <div align="center" width=20%>
+
+<div align='center' >
+    <div width=40%>
     <b>📅 # Today's Visit 📅</b>
     <br/>
     <br/>
@@ -14,7 +14,7 @@
   <br/>
  
 
-<table align="center" cellpadding="6" width=80%>
+<table  cellpadding="6" width=0%>
     <tr>
            <td align="center" colspan="4">
                    <b>🏆 Main Skills & Languages 🏆</b>
@@ -61,6 +61,7 @@
     </td>
      </tr>
 </table>
+</div>
     <br/>
     <br/>
 
@@ -74,13 +75,13 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJLEEM&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJLEEM&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=43% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=JJLEEM&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JJLEEM&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JJLEEM&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
 </a>
 
 
