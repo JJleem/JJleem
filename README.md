@@ -22,7 +22,7 @@
 
    <br/>
     <br/>
-<div style="text-align: center; display: flex; justify-content: center;">
+<div align="center" style="text-align: center; display: flex; justify-content: center;">
   <b>🔥 Experienced With 🔥</b>
   <br/>
   <br/>
