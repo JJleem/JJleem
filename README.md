@@ -1,29 +1,20 @@
 
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=b455ff&text=Welcome%20to%20MOLT%20Github&fontColor=fff&fontSize=50&animation=twinkling"/>
-<br />
-<br />
+
 </p>
-<p>
-    <div align="center">
+<div width=100% align="center" style="text-align: center; display: flex; justify-content: center;" column>
+    <div align="center" width=20%>
     <b>📅 # Today's Visit 📅</b>
     <br/>
     <br/>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJleem&count_bg=%2310D6E9&title_bg=%23004BF3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
     </div>
-</p>
-
-
-
-
-  
-<div width="100%" align="center" style="text-align: center; display: flex; justify-content: center;">
-
   <br/>
   <br/>
  
 
-<table align="center" cellpadding="6">
+<table align="center" cellpadding="6" width=80%>
     <tr>
            <td align="center" colspan="4">
                    <b>🏆 Main Skills & Languages 🏆</b>
@@ -66,7 +57,7 @@
      </tr>
          <tr>
     <td align="center" colspan="4">
-           <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+           <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white"/>
     </td>
      </tr>
 </table>
