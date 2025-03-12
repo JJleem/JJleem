@@ -1,6 +1,7 @@
 
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=b455ff&text=Welcome%20to%20MOLT%20Github&fontColor=fff&fontSize=50&animation=twinkling"/>
+
+<p align='center' >
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=b455ff&text=Welcome%20to%20MOLT%20Github&fontColor=aeb9e1&fontSize=50&animation=twinkling"/>
 </p>
 
 <div align='center' >
