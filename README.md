@@ -15,7 +15,7 @@
   <br/>
  
 
-<table  cellpadding="6" width=0%>
+<table  cellpadding="6" >
     <tr>
            <td align="center" colspan="4">
                    <b>🏆 Main Skills & Languages 🏆</b>
