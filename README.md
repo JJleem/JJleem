@@ -1,10 +1,11 @@
 
 
 <p align='center' >
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=3897f0&text=Welcome%20to%20MOLT%20Github&fontColor=e8e8e8&fontSize=50&animation=twinkling"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=3897f0&text=Welcome%20to%20MOLT%20Github&fontColor=e8e8e8&fontSize=50&animation=twinkling"/>
+  
 </p>
 
-<div align='center' >
+<div align='center' width="100%" >
 <!--     <div width=40%>
     <b>📅 # Today's Visit 📅</b>
     <br/>
@@ -15,7 +16,7 @@
   <br/> -->
  
 
-<table  cellpadding="6" >
+<table  cellpadding="6" widht="100%">
     <tr>
            <td align="center" colspan="4">
                    <b>🏆 Main Skills & Languages 🏆</b>
@@ -68,7 +69,7 @@
 
 
    
-<p>
+<!-- <p>
     <div align="center">
     <b>✔ # Git-Hub Stats ✔</b>
     <br/>
@@ -77,13 +78,13 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJLEEM&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=43% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
+</a>  -->  
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=JJLEEM&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=JJLEEM&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
-</a>
+</a> -->
 
 
 </a>
