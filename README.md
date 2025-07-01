@@ -5,7 +5,7 @@
   
 </p>
 <div align='center' width="100%">
-    <img src="https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2FJJleem&title=hits&title_bg=0084ff&count_bg=6b6b6b&edge_flat=false"/>
+    <img src="https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2FJJleem&title=hits&title_bg=3897F0&count_bg=212830&edge_flat=false"/>
 
 </div>
 <br/>
