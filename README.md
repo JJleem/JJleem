@@ -4,6 +4,11 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=3897f0&text=Welcome%20to%20MOLT%20Github&fontColor=e8e8e8&fontSize=50&animation=twinkling"/>
   
 </p>
+<div align='center' width="100%">
+    <img src="https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2FJJleem&title=hits&title_bg=0084ff&count_bg=6b6b6b&edge_flat=false"/>
+
+</div>
+<br/>
 
 <div align='center' width="100%" >
 <!--     <div width=40%>
