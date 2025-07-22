@@ -107,7 +107,13 @@
 </a>
 <br/>
 <a href="https://github.com/devxb/gitanimals">
-   <img src="https://render.gitanimals.org/lines/JJleem?pet-id=735015579961578625" width="1000" height="400"/>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JJleem&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/JJleem"
+  width="1000"
+  height="300"
+/>
+</a>
 </a>
 
 <br />
