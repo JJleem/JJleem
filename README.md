@@ -29,7 +29,7 @@
     </tr>
   <tr>
     <td align="center" colspan="4">
-      <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> -->
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
@@ -39,8 +39,9 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/><br/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><br/>
@@ -51,7 +52,6 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/reacthookform-FF4154?style=flat-square&logo=reacthookform&logoColor=white"/><br/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/><br/>
@@ -64,7 +64,7 @@
      </tr>
          <tr>
     <td align="center" colspan="4">
-            <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>  <img src="https://img.shields.io/badge/GAS-4285F4?style=flat-square&logo=googleappsscript&logoColor=white"/>  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/> <img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>  <img src="https://img.shields.io/badge/GAS-4285F4?style=flat-square&logo=googleappsscript&logoColor=white"/>  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/> <img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white"/>
     </td>
      </tr>
         <td align="center" colspan="4">
