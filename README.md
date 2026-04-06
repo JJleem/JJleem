@@ -1,16 +1,18 @@
 
-
-<p align='center' >
+  <div align="center">                                                                                                                                                                                         
+    <img src="https://github-molt-stats.vercel.app/api/stats" alt="GitHub Stats" />                                                                                                                          
+  </div>     
+<!-- <p align='center' >
     <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=3897f0&text=Welcome%20to%20MOLT%20Github&fontColor=e8e8e8&fontSize=50&animation=twinkling"/>
   
-</p>
+<!-- </p>
 <div align='center' width="100%">
     <img src="https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2FJJleem&title=hits&title_bg=3897F0&count_bg=212830&edge_flat=false"/>
 
 </div>
-<br/>
+<br/> -->
 
-<div align='center' width="100%" >
+<!-- <div align='center' width="100%" > --> 
 <!--     <div width=40%>
     <b>📅 # Today's Visit 📅</b>
     <br/>
@@ -18,10 +20,10 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJleem&count_bg=%2310D6E9&title_bg=%23004BF3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
     </div>
   <br/>
-  <br/> -->
+  <br/> 
  
 
-<table  cellpadding="6" widht="100%">
+<!-- <table  cellpadding="6" widht="100%">
     <tr>
            <td align="center" colspan="4">
                    <b>🏆 Main Skills & Languages 🏆</b>
@@ -80,7 +82,7 @@
 </table>
 </div>
     <br/>
-    <br/>
+    <br/> -->
 
 
    
@@ -90,11 +92,11 @@
     <br/>
 
 </p>  -->
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJleem&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
 </a>  
-</div>
+</div> -->
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=JJLEEM&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
@@ -103,7 +105,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=JJLEEM&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
 </a>  -->
 
-<br/>
+<!-- <br/>
 </a>
 <br/>
 <a href="https://github.com/devxb/gitanimals">
@@ -116,5 +118,5 @@
 </a>
 </a>
 
-<br />
+<br /> -->
 
