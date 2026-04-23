@@ -1,6 +1,6 @@
 
   <div align="center">                                                                                                                                                                                         
-    <img src="https://github-molt-stats.vercel.app/api/stats" alt="GitHub Stats" />                                                                                                                          
+    <img src="https://github-molt-stats.vercel.app/api/stats?v=2" alt="GitHub Stats" />                                                                                                                          
   </div>     
 <!-- <p align='center' >
     <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=3897f0&text=Welcome%20to%20MOLT%20Github&fontColor=e8e8e8&fontSize=50&animation=twinkling"/>
